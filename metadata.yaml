@@ -1,4 +1,8 @@
 _repo: The-Way-Out_49096
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49096-h/images/cover.jpg
 creator:
   author:
     agent_name: Hough, Emerson
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1094
     wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49096#The-Way-Out
 gutenberg_issued: '2015-05-31'
 gutenberg_type: Text
 identifiers:
